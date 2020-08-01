@@ -29,6 +29,8 @@ let Calculator = {
   }
 }
 
-function actionApplyer(){
-  
+function actionApplyer(num, array){
+  if array.empty? 
+    return num
+    
 }
