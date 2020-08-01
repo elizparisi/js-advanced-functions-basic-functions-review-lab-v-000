@@ -15,5 +15,7 @@ function wrapAdjective(wrapper="*"){
 }
 
 let Calculator = {
-  function: add
+  add: function add(){
+    
+  }
 }
