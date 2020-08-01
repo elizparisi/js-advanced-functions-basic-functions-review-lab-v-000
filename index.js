@@ -13,3 +13,7 @@ function wrapAdjective(wrapper="*"){
     return (`You are ${wrapper}${type}${wrapper}!`)
   }
 }
+
+let calculator = {
+  
+}
