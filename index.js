@@ -30,7 +30,9 @@ let Calculator = {
 }
 
 function actionApplyer(num, array){
-  let num = 0
-  for 
+  let result = 0
+  
+  for(let i = 0, i < array.length, i++);
+    
     
 }
