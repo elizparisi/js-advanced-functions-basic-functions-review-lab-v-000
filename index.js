@@ -33,6 +33,6 @@ function actionApplyer(num, array){
   let result = num
   
   for(let i = 0, i < array.length, i++){
-    result = result[i];
+    result = result[i]
   };
 }
