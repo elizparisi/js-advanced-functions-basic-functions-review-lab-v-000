@@ -30,7 +30,7 @@ let Calculator = {
 }
 
 function actionApplyer(num, array){
-  if array.empty? 
-    return num
+  let num = 0
+  for 
     
 }
