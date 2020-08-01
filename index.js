@@ -32,17 +32,7 @@ let Calculator = {
 function actionApplyer(num, array){
   let result = num
   
-  for (let i = 0, i < array.length, i++){
+  for (let i = 0; i < array.length; i++){
     result = array[i](result)
-  };
-}
-
-function actionApplyer(integer, ray) {
-    let a = integer
-
-    for (let i = 0; i < ray.length; i++) {
-        a = ray[i](a)
-    }
-
-    return a
+  }
 }
